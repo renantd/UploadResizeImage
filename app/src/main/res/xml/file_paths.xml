@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!--  <external-path name="my_images" path="Android/data/br.sofex.com.facialmap/files/Pictures" /> -->
+    <external-path name="my_images" path="Android/data/br.sofex.uploadresizeimage/files/Pictures" />
+    <root-path name="root" path="/data/data/br.sofex.uploadresizeimage/cache/" />
+</paths>
